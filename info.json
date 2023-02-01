@@ -1,0 +1,12 @@
+{
+  "name": "Girls_Front_Line_TDolls",
+  "version": "0.1.5",
+  "title": "Girls' Front Line T-Dolls",
+  "author": "Vivian, based on code by Klonan, Illiander, heyqule, Monarch and danielbrauer",
+  "contact": "",
+  "homepage": "",
+  "description": "Add T-Dolls as alternate 'Spidertron' units for various stages of the game, Largely designed for combat",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 0.18.31"]
+}
+

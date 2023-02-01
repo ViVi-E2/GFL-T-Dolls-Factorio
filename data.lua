@@ -1,0 +1,8 @@
+names = require("shared")
+require("prototypes/entities/tdolls")
+require("prototypes/ammoCategories")
+require("prototypes/animations")
+require("prototypes/equipment")
+require("prototypes/specialAmmo")
+require("prototypes/technology")
+local sounds = require("__base__.prototypes.entity.sounds")
